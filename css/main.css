@@ -33,7 +33,7 @@ html {
 
 .nav a:hover span,
 .nav a:focus span {
-  border-bottom-color: #cea59b;
+  border-bottom-color: #fff;
 }
 
 .banner {
