@@ -27,7 +27,7 @@ html {
   text-decoration: none;
 }
 
-.nav a span {
+.nav a span:focus {
   border-bottom: .3rem solid #cea59b;
 }
 
